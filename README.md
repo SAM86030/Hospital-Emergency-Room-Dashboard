@@ -2,7 +2,7 @@
 
 # 🏥 Hospital Emergency Room Dashboard (Power BI)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project presents an **interactive Hospital Emergency Room Dashboard** built using **Power BI**.
 The dashboard helps analyze patient flow, waiting time, admission rates, and overall emergency room performance.
