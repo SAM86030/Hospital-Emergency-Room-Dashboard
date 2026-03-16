@@ -11,7 +11,7 @@ It enables healthcare administrators to monitor operational efficiency and make 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Monitor the **number of patients visiting the emergency room**
 * Analyze **average waiting time**
@@ -22,7 +22,7 @@ It enables healthcare administrators to monitor operational efficiency and make 
 
 ---
 
-## 📌 Key Metrics
+##  Key Metrics
 
 The dashboard highlights the following important KPIs:
 
@@ -34,7 +34,7 @@ The dashboard highlights the following important KPIs:
 
 ---
 
-## 📈 Dashboard Insights
+##  Dashboard Insights
 
 Some insights that can be derived from this dashboard:
 
@@ -46,7 +46,7 @@ Some insights that can be derived from this dashboard:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Power BI** – Data visualization and dashboard creation
 * **Microsoft Excel / Dataset** – Data source
@@ -55,17 +55,17 @@ Some insights that can be derived from this dashboard:
 
 ---
 
-## ⭐ Features & Highlights
+##  Features & Highlights
 
-### 1️⃣ Business Problem
+### 1️ Business Problem
 
 Hospitals often face challenges in managing emergency room operations due to high patient inflow, long waiting times, and limited resources. Without proper data visualization, it becomes difficult for administrators to quickly understand patient trends and identify operational inefficiencies.
 
-### 2️⃣ Goal of the Dashboard
+### 2️ Goal of the Dashboard
 
 The goal of this dashboard is to provide a clear and interactive overview of emergency room performance. It helps hospital staff monitor patient flow, waiting times, admission rates, and demographic patterns so that they can make faster and better decisions.
 
-### 3️⃣ Walkthrough of Key Visuals
+### 3️ Walkthrough of Key Visuals
 
 * **KPI Cards** display important metrics such as total patients, average wait time, patient satisfaction score, and number of patients referred.
 * **Admission Status Chart** shows the percentage of admitted vs non-admitted patients.
@@ -75,7 +75,7 @@ The goal of this dashboard is to provide a clear and interactive overview of eme
 * **Hourly Heatmap** highlights peak hours when the emergency room receives the highest number of patients.
 * **Department Referral Chart** shows which hospital departments receive the most referrals from the ER.
 
-### 4️⃣ Business Impact
+### 4️ Business Impact
 
 This dashboard helps healthcare administrators:
 
@@ -85,7 +85,7 @@ This dashboard helps healthcare administrators:
 * Reduce patient waiting time
 * Improve operational efficiency
 
-### 5️⃣ Insights
+### 5️ Insights
 
 Some insights that can be derived from the dashboard include:
 
@@ -96,7 +96,7 @@ Some insights that can be derived from the dashboard include:
 
 ---
 
-## 🚀 Project Value
+##  Project Value
 
 This dashboard can help hospitals:
 
@@ -106,7 +106,7 @@ This dashboard can help hospitals:
 * Support **data-driven healthcare management**
 
 ---
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](hospital-er-dashboard-overview.png)
 
