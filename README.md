@@ -108,7 +108,7 @@ This dashboard can help hospitals:
 ---
 ##  Dashboard Preview
 
-![Dashboard Preview](hospital-er-dashboard-overview.png)
+![Dashboard Preview] https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/hospital-er-dashboard-powerbi.png
 
 ## 👨‍💻 Author
 
