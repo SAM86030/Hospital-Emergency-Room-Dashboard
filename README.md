@@ -99,12 +99,6 @@ This step ensures that the data used in the dashboard is clean, structured, and 
 
 ---
 
-##  Dashboard Preview
-
-![Screenshot](https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/Dashboard%20Screenshot1png)
-
----
-
 ## 🚀 Project Value
 
 This project demonstrates a complete data analysis workflow:
