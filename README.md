@@ -101,7 +101,7 @@ This step ensures that the data used in the dashboard is clean, structured, and 
 
 ##  Dashboard Preview
 
-![Screenshot](hospital-emergency-room-dashboard-powerbi.png)
+![Screenshot](https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/Dashboard%20Screenshot1png)
 
 ---
 
