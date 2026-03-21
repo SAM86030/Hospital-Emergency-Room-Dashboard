@@ -111,8 +111,7 @@ It shows how data can be used to improve emergency room efficiency and patient e
 
 ##  Dashboard Preview
 
-![Dashboard Preview] 
-Rename hospital-er-dashboard-powerbi.png to Dashboard Screenshot1png
+https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/Dashboard%20Screenshot1png
 
 ## 👨‍💻 Author
 
