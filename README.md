@@ -110,7 +110,8 @@ This project demonstrates a complete data analysis workflow:
 It shows how data can be used to improve emergency room efficiency and patient experience.
 
 ##  Dashboard Preview
-![Dashboard Screenshot] https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/commit/1f0613dde40b50551282f055a33e476fd6b64d97
+
+<img width="1115" height="699" alt="Screenshot 2026-03-16 184524" src="https://github.com/user-attachments/assets/c8e97b43-0152-4ccc-8e3f-cd5627634e13" />
 
 ## 👨‍💻 Author
 
