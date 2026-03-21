@@ -1,111 +1,120 @@
 # Hospital-Emergency-Room-Dashboard
-
-# 🏥 Hospital Emergency Room Dashboard (Power BI)
+# 🏥 Hospital Emergency Room Dashboard (Power BI + Python)
 
 ##  Project Overview
 
-This project presents an **interactive Hospital Emergency Room Dashboard** built using **Power BI**.
-The dashboard helps analyze patient flow, waiting time, admission rates, and overall emergency room performance.
+This project presents an interactive **Hospital Emergency Room Dashboard** created using Power BI along with data analysis performed in Python.
 
-It enables healthcare administrators to monitor operational efficiency and make **data-driven decisions** for improving patient experience.
+The goal of this project is to analyze emergency room data, understand patient flow, and improve overall hospital efficiency using data-driven insights.
+Python is used for data cleaning, preprocessing, and exploratory analysis, while Power BI is used for building an interactive dashboard.
 
 ---
 
-## Objectives
+##  Objectives
 
-* Monitor the **number of patients visiting the emergency room**
-* Analyze **average waiting time**
-* Track **patient admission vs non-admission**
-* Measure **patient satisfaction score**
-* Identify patient distribution by **age, gender, and race**
-* Analyze **peak hours and busiest days**
+* Analyze patient flow in the emergency room
+* Monitor average waiting time
+* Track admission vs non-admission rates
+* Understand patient demographics (age, gender, race)
+* Identify peak hours and busiest days
+* Improve overall emergency room performance
+
+---
+
+## ⭐ Features & Highlights
+
+### 1️ Business Problem
+
+Hospitals often face challenges in managing emergency rooms due to high patient volume, long waiting times, and limited resources. Without proper data analysis, it becomes difficult to identify inefficiencies and improve patient service.
+
+### 2️ Goal of the Dashboard
+
+The goal of this project is to provide a clear and interactive view of emergency room operations, helping to monitor performance, analyze patient trends, and support better decision-making.
+
+### 3️ Walkthrough of Key Visuals
+
+* **KPI Cards** show total patients, average wait time, satisfaction score, and patients referred
+* **Admission Status** shows admitted vs non-admitted patients
+* **Age Group Analysis** shows patient distribution across age groups
+* **Gender & Race Distribution** shows demographic insights
+* **Day-wise Trend** highlights busiest days
+* **Hourly Heatmap** shows peak hours in the emergency room
+* **Department Referral** shows which departments receive more patients
+
+### 4️ Business Impact
+
+This dashboard helps:
+
+* Reduce patient waiting time
+* Improve hospital resource allocation
+* Identify peak hours for better staffing
+* Monitor emergency room efficiency
+* Support data-driven healthcare decisions
+
+### 5️ Insights
+
+* Peak hours can be identified using hourly analysis
+* Some days have higher patient inflow
+* A portion of patients do not require admission
+* Patient demographics vary across age groups and categories
+
+---
+
+## 🐍 Python Work (Data Analysis & Preprocessing)
+
+Python is used to prepare and analyze the dataset before visualization.
+
+### Tasks Performed:
+
+* Data Cleaning (handling missing values)
+* Data Transformation and Formatting
+* Encoding categorical data into numerical values
+* Handling null and inconsistent data
+* Exploratory Data Analysis (EDA)
+* Age-wise distribution analysis
+* Data visualization using Python libraries
+
+This step ensures that the data used in the dashboard is clean, structured, and ready for analysis.
 
 ---
 
 ##  Key Metrics
 
-The dashboard highlights the following important KPIs:
-
-* Total Number of Patients
+* Total Patients
 * Average Wait Time
 * Patient Satisfaction Score
-* Number of Patients Referred
-* Admission vs Non-Admission Rate
+* Patients Referred
+* Admission vs Non-Admission
 
 ---
 
-##  Dashboard Insights
+## 🛠 Tools & Technologies Used
 
-Some insights that can be derived from this dashboard:
-
-* Identification of **peak patient hours**
-* Understanding **patient demographics**
-* Monitoring **department referral trends**
-* Evaluating **Emergency Room performance efficiency**
-* Tracking **patients seen within 30 minutes**
-
----
-
-## Tools & Technologies Used
-
-* **Power BI** – Data visualization and dashboard creation
-* **Microsoft Excel / Dataset** – Data source
-* **Data Modeling** – Creating relationships and measures
-* **Dax** (Data Analysis Expressions)
+* Power BI – Dashboard creation and visualization
+* Python – Data cleaning and analysis
+* Pandas & NumPy – Data processing
+* Matplotlib / Seaborn – Data visualization
+* Excel Dataset – Data source
+* DAX – Measures and calculations
 
 ---
 
-##  Features & Highlights
+##  Dashboard Preview
 
-### 1️ Business Problem
-
-Hospitals often face challenges in managing emergency room operations due to high patient inflow, long waiting times, and limited resources. Without proper data visualization, it becomes difficult for administrators to quickly understand patient trends and identify operational inefficiencies.
-
-### 2️ Goal of the Dashboard
-
-The goal of this dashboard is to provide a clear and interactive overview of emergency room performance. It helps hospital staff monitor patient flow, waiting times, admission rates, and demographic patterns so that they can make faster and better decisions.
-
-### 3️ Walkthrough of Key Visuals
-
-* **KPI Cards** display important metrics such as total patients, average wait time, patient satisfaction score, and number of patients referred.
-* **Admission Status Chart** shows the percentage of admitted vs non-admitted patients.
-* **Age Group Analysis** visualizes how patients are distributed across different age groups.
-* **Gender and Race Distribution** helps understand demographic patterns among ER patients.
-* **Day-wise Patient Trend** identifies the busiest days of the week.
-* **Hourly Heatmap** highlights peak hours when the emergency room receives the highest number of patients.
-* **Department Referral Chart** shows which hospital departments receive the most referrals from the ER.
-
-### 4️ Business Impact
-
-This dashboard helps healthcare administrators:
-
-* Monitor emergency room performance in real time
-* Identify peak hours and patient demand
-* Optimize staff allocation
-* Reduce patient waiting time
-* Improve operational efficiency
-
-### 5️ Insights
-
-Some insights that can be derived from the dashboard include:
-
-* Certain days of the week experience higher patient visits.
-* Peak patient hours can be identified using the hourly heatmap.
-* A significant portion of patients may not require admission.
-* Referral trends highlight the departments receiving the most emergency cases.
+![Screenshot](hospital-emergency-room-dashboard-powerbi.png)
 
 ---
 
-##  Project Value
+## 🚀 Project Value
 
-This dashboard can help hospitals:
+This project demonstrates a complete data analysis workflow:
 
-* Improve **emergency room efficiency**
-* Reduce **patient waiting time**
-* Monitor **operational performance**
-* Support **data-driven healthcare management**
+* Data preprocessing using Python
+* Data visualization using Power BI
+* Extracting meaningful insights from healthcare data
 
----
+It shows how data can be used to improve emergency room efficiency and patient experience.
+
 ##  Dashboard Preview
 
 ![Dashboard Preview] https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/hospital-er-dashboard-powerbi.png
