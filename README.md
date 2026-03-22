@@ -95,6 +95,7 @@ SQL was used to extract meaningful insights from the dataset and perform analyti
 
 These queries helped in understanding patient patterns, hospital workload, and overall emergency room performance from a data perspective.
 
+# see the work: https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/03-sql/hospital_queries.sql
 
 
 ##  Key Metrics
