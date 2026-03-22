@@ -97,29 +97,34 @@ These queries helped in understanding patient patterns, hospital workload, and o
 
 # see the work: https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/03-sql/hospital_queries.sql
 
-
 ##  Key Metrics
+
+The dashboard and analysis focus on the following important metrics:
 
 * Total Patients
 * Average Wait Time
 * Patient Satisfaction Score
+* Admission Rate (Admitted vs Non-Admitted)
+* Department-wise Patient Count
+* Gender Distribution
+* Age-wise Patient Trends
 * Patients Referred
-* Admission vs Non-Admission
 
 ---
 
 ## 🛠 Tools & Technologies Used
 
 * Power BI – Dashboard creation and visualization
-* Python – Data cleaning and analysis
+* Python – Data cleaning and exploratory data analysis
 * Pandas & NumPy – Data processing
 * Matplotlib / Seaborn – Data visualization
+* SQL – Data querying and analysis
 * Excel Dataset – Data source
-* DAX – Measures and calculations
+* DAX (Data Analysis Expressions) – Measures and calculations
 
 ---
 
-## 🚀 Project Value
+##  Project Value
 
 This project demonstrates a complete data analysis workflow:
 
