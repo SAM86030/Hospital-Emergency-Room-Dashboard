@@ -78,6 +78,24 @@ This step ensures that the data used in the dashboard is clean, structured, and 
 # See the work  https://github.com/SAM86030/Hospital-Emergency-Room-Dashboard/blob/main/hospitalreport.ipynb
 
 ---
+## 🗄 SQL Work (Data Analysis)
+
+SQL was used to extract meaningful insights from the dataset and perform analytical queries on hospital data.
+
+### Key Analysis Performed:
+
+* Total number of patients
+* Gender distribution of patients
+* Department-wise patient count
+* Admission rate analysis
+* Average waiting time calculation
+* Patient satisfaction score analysis
+* Age-wise admission trends
+* Identification of top departments based on patient volume and admissions
+
+These queries helped in understanding patient patterns, hospital workload, and overall emergency room performance from a data perspective.
+
+
 
 ##  Key Metrics
 
